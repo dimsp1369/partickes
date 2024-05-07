@@ -1,3 +1,0 @@
-D:/Americar River College/CISP/particles/cmake-build-debug/CMakeFiles/particles.dir
-D:/Americar River College/CISP/particles/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Americar River College/CISP/particles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
