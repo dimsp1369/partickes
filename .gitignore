@@ -31,6 +31,4 @@
 *.out
 *.app
 
-# cmake
-CMakeLists.txt
-*.cmake
+
